@@ -18,7 +18,6 @@
 /Users/simonchan/Projects/CSharpWithSeleniumWebDriver/CSharpWithSeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 /Users/simonchan/Projects/CSharpWithSeleniumWebDriver/CSharpWithSeleniumWebDriver/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.TestFramework.dll
 /Users/simonchan/Projects/CSharpWithSeleniumWebDriver/CSharpWithSeleniumWebDriver/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
-/Users/simonchan/Projects/CSharpWithSeleniumWebDriver/CSharpWithSeleniumWebDriver/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
 /Users/simonchan/Projects/CSharpWithSeleniumWebDriver/CSharpWithSeleniumWebDriver/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
 /Users/simonchan/Projects/CSharpWithSeleniumWebDriver/CSharpWithSeleniumWebDriver/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
 /Users/simonchan/Projects/CSharpWithSeleniumWebDriver/CSharpWithSeleniumWebDriver/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
@@ -93,3 +92,4 @@
 /Users/simonchan/Projects/CSharpWithSeleniumWebDriver/CSharpWithSeleniumWebDriver/bin/Debug/netcoreapp3.1/WebDriver.dll
 /Users/simonchan/Projects/CSharpWithSeleniumWebDriver/CSharpWithSeleniumWebDriver/bin/Debug/netcoreapp3.1/SeleniumExtras.WaitHelpers.dll
 /Users/simonchan/Projects/CSharpWithSeleniumWebDriver/CSharpWithSeleniumWebDriver/bin/Debug/netcoreapp3.1/WebDriver.Support.dll
+/Users/simonchan/Projects/CSharpWithSeleniumWebDriver/CSharpWithSeleniumWebDriver/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
