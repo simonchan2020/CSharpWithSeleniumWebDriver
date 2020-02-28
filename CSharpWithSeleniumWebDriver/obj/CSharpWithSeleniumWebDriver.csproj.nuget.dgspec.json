@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/simonchan/Projects/CSharpWithSeleniumWebDriver/CSharpWithSeleniumWebDriver/CSharpWithSeleniumWebDriver.csproj": {}
+  },
+  "projects": {
+    "/Users/simonchan/Projects/CSharpWithSeleniumWebDriver/CSharpWithSeleniumWebDriver/CSharpWithSeleniumWebDriver.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/simonchan/Projects/CSharpWithSeleniumWebDriver/CSharpWithSeleniumWebDriver/CSharpWithSeleniumWebDriver.csproj",
+        "projectName": "CSharpWithSeleniumWebDriver",
+        "projectPath": "/Users/simonchan/Projects/CSharpWithSeleniumWebDriver/CSharpWithSeleniumWebDriver/CSharpWithSeleniumWebDriver.csproj",
+        "packagesPath": "/Users/simonchan/.nuget/packages/",
+        "outputPath": "/Users/simonchan/Projects/CSharpWithSeleniumWebDriver/CSharpWithSeleniumWebDriver/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/simonchan/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "DotNetSeleniumExtras.WaitHelpers": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
